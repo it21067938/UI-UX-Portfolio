@@ -2,7 +2,6 @@ import React from 'react'
 import './hero.css'
 
 //Assets
-import hero_img from '../../assets/hero_img.png'
 import hero_image from '../../assets/hero_image.png'
 
 function Hero() {

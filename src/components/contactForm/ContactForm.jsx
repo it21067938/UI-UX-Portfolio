@@ -6,7 +6,7 @@ import './contactform.css'
 import TextField from '@mui/material/TextField';
 
 
-import { useForm, ValidationError } from '@formspree/react';
+import { useForm } from '@formspree/react';
 function ContactForm() {
   const [state, handleSubmit] = useForm("mvolgnlj");
   if (state.succeeded) {

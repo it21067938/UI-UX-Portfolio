@@ -4,7 +4,6 @@ import './navbar.css'
 //Icons
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 
-import logo from '../../assets/logo.svg'
 
 const Menu = () => (
     <>
